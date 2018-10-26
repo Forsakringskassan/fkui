@@ -1,4 +1,4 @@
-Försäkrinngskassans designsystem
+Försäkringskassans designsystem
 ================================
 > Form, färg och design för samtliga system på Försäkringskassan.
 
