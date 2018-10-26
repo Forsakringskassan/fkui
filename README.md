@@ -29,6 +29,7 @@ Vill du bli maintainer eller ägare i detta repo? Kontakta då någon av de befi
 Information
 -----------
 Det är av yttersta vikt att du som utvecklare pushar "rätt" saker till det här repot. Det får inte förekomma personuppgifter, hemligheter eller sökvägar till interna system.
+All information som Försäkringskassan publicerar måste vara informationsklassad, det gäller även kod.
 
 Säkerhet
 --------
