@@ -33,7 +33,7 @@ All information som Försäkringskassan publicerar måste vara informationsklass
 
 Säkerhet
 --------
-Kodändringar som bör granskas av säkerhetsexpert. Lägg gärna till en av dem i din PR om du misstänker att det behövs eller om du är osäker. Vet du inte vem som är säkerhetsexpert så kontaktar du någon av ägarna till repot och ber om hjälp :)
+Kodändringar bör granskas av säkerhetsexpert. Lägg gärna till en av dem i din PR om du misstänker att det behövs eller om du är osäker. Vet du inte vem som är säkerhetsexpert så kontaktar du någon av ägarna till repot och ber om hjälp :)
 
 Rapportera säkerhetsproblem
 ---------------------------
