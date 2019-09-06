@@ -1,12 +1,14 @@
 <html>
     <head>
         <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
         <title>fkuiVue demo</title>
         <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
         <script src="https://unpkg.com/vuex@3.1.1/dist/vuex.js"></script>
         <script src="./fkuiVue.umd.js"></script>
 
         <link rel="stylesheet" href="./fkuiVue.css" />
+        <link rel="stylesheet" href="../fkui-core-0.6.1.css" />
     </head>
     <body>
         <div id="app">
@@ -28,7 +30,8 @@
 
                     <template v-slot:addedday-data="slotprops">
                         <div>
-                            <b>Förälder:</b> {{ slotprops.collected.foralder }}
+                            <b>Förälder:</b>
+                            {{ slotprops.collected.foralder }}
                         </div>
                         <div><b>Barn:</b> {{ slotprops.collected.barn }}</div>
                         <div>
@@ -39,7 +42,15 @@
                 </Calendar>
                 <br />
                 <br />
-                <button onClick="window.location.reload();">Skicka in</button>
+                <div style="width:400px;text-align:center;">
+                    <button
+                        class="button button--primary"
+                        type="button"
+                        onClick="window.location.reload();"
+                    >
+                        Skicka in
+                    </button>
+                </div>
             </template>
         </div>
 
