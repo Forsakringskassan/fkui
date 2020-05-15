@@ -1,4 +1,4 @@
-/*! git rev: 2faf587713d475c00c2723cd5de65ce2bbcc8ee0 */
+/*! git rev: 52cdfdafea7a51064c391948b0621c3023c647a9 */
 /*! app: 0.1.0 */
 /*! @fkui/design: 0.47.0 */
 /*! @fkui/logic: 0.35.0 */
