@@ -454,16 +454,16 @@ textarea {
 
 @font-face {
   font-family: "NeueHaas";
-  src: url(assets/fonts/NHaasGroteskTXPro-55Rg.woff) format("woff"); }
+  src: url(https://www.forsakringskassan.se/fk_apps/ExpTemaResponsiv/themes/FKResponsiv/fonts/NHaasGroteskTXPro-55Rg.woff) format("woff"); }
 
 @font-face {
   font-family: "NeueHaas";
-  src: url(assets/fonts/NHaasGroteskTXPro-65Md.woff) format("woff");
+  src: url(https://www.forsakringskassan.se/fk_apps/ExpTemaResponsiv/themes/FKResponsiv/fonts/NHaasGroteskTXPro-65Md.woff) format("woff");
   font-weight: 700; }
 
 @font-face {
   font-family: "NeueHaas";
-  src: url(assets/fonts/NHaasGroteskTXPro-75Bd.woff) format("woff");
+  src: url(https://www.forsakringskassan.se/fk_apps/ExpTemaResponsiv/themes/FKResponsiv/fonts/NHaasGroteskTXPro-75Bd.woff) format("woff");
   font-weight: 900; }
 
 html {
